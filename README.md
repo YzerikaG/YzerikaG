@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋 [![HackerRank](https://img.shields.io/badge/HackerRank-yourhandle-brightgreen?logo=hackerrank)](https://www.hackerrank.com/yourhandle) ## HackerRank Achievements - Problem Solving — ⭐⭐⭐⭐⭐ (5 Stars Gold) - Python — ⭐⭐⭐⭐⭐ (5 Stars Gold) - SQL — ⭐⭐⭐⭐ (4 Stars) ## Certifications [![Problem Solving](https://img.shields.io/badge/Certified-Problem%20Solving-00EA64?logo=hackerrank)](https://www.hackerrank.com/certificates/your-cert-id)
 
 <!--
 **YzerikaG/YzerikaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
