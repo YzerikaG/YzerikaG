@@ -47,7 +47,7 @@ This isn't just another closet app. It's a personal venture into:
 
 ---
 
-*Thanks for stopping by — hope something here caught your eye. 🍊*
+*Thanks for stopping by. 🍊*
 <!--
 **YzerikaG/YzerikaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Hi, I'm [Yz]👋 
