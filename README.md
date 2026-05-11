@@ -48,12 +48,6 @@ This isn't just another closet app. It's a personal venture into:
 
 ---
 
-## 📬 Let's Connect
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-yzeregerzon-00EA64?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/yzeregerzon)
-
----
-
 *Thanks for stopping by. 🍊*
 <!--
 **YzerikaG/YzerikaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
