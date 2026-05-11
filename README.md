@@ -1,6 +1,6 @@
-# Code, design, and a little bit of chaos
-## I'm Yzère 👋, an aspiring Software Engineer & Web Developer with a eye for UI/UX and a habit of learning everything twice.
-### Also known as Heather — allegedly. My mom said so, and I choose to believe it. 🌸
+# Code, design, and a little bit of chaos__I'm Yzère 👋
+## An aspiring Software Engineer & Web Developer with a eye for UI/UX and a habit of learning everything twice.
+#### Also known as Heather — allegedly. My mom said so, and I choose to believe it. 🌸
 > *Constant learner. Wardrobe chaos survivor. Future app builder.*
 
 ---
