@@ -10,7 +10,8 @@ I believe in learning, unlearning, and relearning — because technology waits f
 
 ![Python](https://img.shields.io/badge/Python-Learning-3776AB?logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-Relearning-4479A1?logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C++-Exploring-00599C?logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Exploring-00599C?logo=cplusplus&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Exploring-FF6B35?logo=openai&logoColor=white)
 
 I track my progress on HackerRank — feel free to check it out:
 
