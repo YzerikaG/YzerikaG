@@ -1,8 +1,13 @@
-# Code, design, and a little bit of chaos__ Hi! I'm Yzère aka 'Yz'👋
-## An aspiring Software Engineer & Web Developer with a eye for UI/UX and a habit of learning everything twice.
+# Code, design, and a little bit of chaos — Hi! I'm Yzère aka 'Yz' 👋
+### An aspiring Software Engineer & Web Developer with an eye for UI/UX and a habit of learning everything twice.
 #### Also known as Heather — allegedly. My mom said so, and I choose to believe it. 🌸
-> *Constant learner. Wardrobe chaos survivor. Future app builder.*
 
+> 🌸 *Also known as Heather — allegedly. My mom said so, and I choose to believe it.*
+ 
+---
+ 
+*Constant learner. Wardrobe chaos survivor. Future app builder.*
+ 
 ---
 
 ## 🌱 What I'm Currently Learning
