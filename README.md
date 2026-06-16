@@ -1,4 +1,4 @@
-# Code, design, and a little bit of chaos — Hi! I'm Yzère aka 'Yz' 👋
+# Code, design, and a little bit of chaos — 👋 Hi! I'm Yzère aka 'Yz' 
 ### An aspiring Software Developer with an eye for UI/UX and a habit of learning everything twice.
 #### Also known as Heather — allegedly. My mom said so, and I choose to believe it. 🌸
 
